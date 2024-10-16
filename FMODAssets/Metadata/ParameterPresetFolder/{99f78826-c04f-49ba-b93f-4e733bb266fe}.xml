@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="ParameterPresetFolder" id="{99f78826-c04f-49ba-b93f-4e733bb266fe}">
+        <property name="name">
+            <value>Transmit Transceiver</value>
+        </property>
+        <relationship name="folder">
+            <destination>{407dcba6-f0b7-4f72-b647-99408457dbc7}</destination>
+        </relationship>
+    </object>
+</objects>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.08.00">
+    <object class="AudioFile" id="{906c0fe8-5b08-4419-8a6a-d7a0e7989410}">
+        <property name="assetPath">
+            <value>Ambience/Birds/Swamp Bird_30.ogg</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>48</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>1.0402708333333333</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{3b91e612-5ac2-4442-83e6-5eeca6dbba07}</destination>
+        </relationship>
+    </object>
+</objects>

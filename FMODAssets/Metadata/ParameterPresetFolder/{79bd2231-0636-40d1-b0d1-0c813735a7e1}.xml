@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="ParameterPresetFolder" id="{79bd2231-0636-40d1-b0d1-0c813735a7e1}">
+        <property name="name">
+            <value>Door Transceiver</value>
+        </property>
+        <relationship name="folder">
+            <destination>{407dcba6-f0b7-4f72-b647-99408457dbc7}</destination>
+        </relationship>
+    </object>
+</objects>

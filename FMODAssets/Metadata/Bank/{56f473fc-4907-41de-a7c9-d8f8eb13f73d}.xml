@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="Bank" id="{56f473fc-4907-41de-a7c9-d8f8eb13f73d}">
+		<property name="name">
+			<value>Scatter Room</value>
+		</property>
+		<relationship name="folder">
+			<destination>{793fd9fd-2c6c-4ae0-933d-bb752d3f54be}</destination>
+		</relationship>
+	</object>
+</objects>

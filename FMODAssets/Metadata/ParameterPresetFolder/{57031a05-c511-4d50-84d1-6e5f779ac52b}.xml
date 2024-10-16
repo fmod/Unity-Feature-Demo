@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="ParameterPresetFolder" id="{57031a05-c511-4d50-84d1-6e5f779ac52b}">
+        <property name="name">
+            <value>Thunder Dome</value>
+        </property>
+        <relationship name="folder">
+            <destination>{dc220154-5f94-0e60-3af5-5aefeff47d11}</destination>
+        </relationship>
+    </object>
+</objects>

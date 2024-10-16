@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{a997e922-c3c6-46f5-948e-4752ab7951aa}">
+		<property name="assetPath">
+			<value>Migrated IR/Factory Hall.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.1000023</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>5.2722222222222221</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{3b91e612-5ac2-4442-83e6-5eeca6dbba07}</destination>
+		</relationship>
+	</object>
+</objects>

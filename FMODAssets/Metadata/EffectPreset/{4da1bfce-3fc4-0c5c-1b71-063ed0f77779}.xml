@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="EffectPreset" id="{4da1bfce-3fc4-0c5c-1b71-063ed0f77779}">
+		<property name="name">
+			<value>FMOD Limiter</value>
+		</property>
+		<relationship name="folder">
+			<destination>{d49d1c9d-d17d-074c-3ab3-9b045fbee27b}</destination>
+		</relationship>
+		<relationship name="effect">
+			<destination>{72c77037-30e0-4e9f-9aa1-07c9dc6bae76}</destination>
+		</relationship>
+	</object>
+	<object class="LimiterEffect" id="{72c77037-30e0-4e9f-9aa1-07c9dc6bae76}">
+		<property name="ceiling">
+			<value>-0.99999994</value>
+		</property>
+	</object>
+</objects>

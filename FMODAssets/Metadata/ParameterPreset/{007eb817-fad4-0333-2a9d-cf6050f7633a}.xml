@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="ParameterPreset" id="{007eb817-fad4-0333-2a9d-cf6050f7633a}">
+		<property name="name">
+			<value>Colour</value>
+		</property>
+		<relationship name="folder">
+			<destination>{c150976c-fc7c-4394-8709-794fc8bde3f8}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{407a7eb7-725e-4034-9d3e-0cdaa27ca09b}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{407a7eb7-725e-4034-9d3e-0cdaa27ca09b}">
+		<property name="maximum">
+			<value>4</value>
+		</property>
+		<property name="isExposedRecursively">
+			<value>false</value>
+		</property>
+	</object>
+</objects>

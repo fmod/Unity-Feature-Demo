@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.08.00">
+    <object class="MasterTagFolder" id="{a40c0362-93e0-4f91-89c6-fade570d2f0f}">
+        <property name="name">
+            <value>Master</value>
+        </property>
+        <relationship name="items">
+            <destination>{bff9c543-f675-49fd-ad64-c96e0951b6cc}</destination>
+            <destination>{b9534312-b519-4d38-95a6-0f3631b2dcb7}</destination>
+            <destination>{055fb76b-3094-4297-abcf-271ec314cd58}</destination>
+            <destination>{2b47495a-f48b-4658-87d4-a18bc871d004}</destination>
+            <destination>{97953f01-ad22-4728-8cec-575f5e0244f3}</destination>
+            <destination>{cb18022c-03f4-4030-8f84-b15d19283f06}</destination>
+            <destination>{b0dcf10f-2aca-45f5-aa69-5ffb9f30a17e}</destination>
+            <destination>{d21054ac-f72d-47d7-b0c0-d6a0a6a05219}</destination>
+        </relationship>
+    </object>
+    <object class="Tag" id="{bff9c543-f675-49fd-ad64-c96e0951b6cc}">
+        <property name="name">
+            <value>Explosion</value>
+        </property>
+        <relationship name="folder">
+            <destination>{a40c0362-93e0-4f91-89c6-fade570d2f0f}</destination>
+        </relationship>
+    </object>
+    <object class="Tag" id="{b9534312-b519-4d38-95a6-0f3631b2dcb7}">
+        <property name="name">
+            <value>Movement</value>
+        </property>
+        <relationship name="folder">
+            <destination>{a40c0362-93e0-4f91-89c6-fade570d2f0f}</destination>
+        </relationship>
+    </object>
+    <object class="Tag" id="{055fb76b-3094-4297-abcf-271ec314cd58}">
+        <property name="name">
+            <value>Transition</value>
+        </property>
+        <relationship name="folder">
+            <destination>{a40c0362-93e0-4f91-89c6-fade570d2f0f}</destination>
+        </relationship>
+    </object>
+    <object class="Tag" id="{2b47495a-f48b-4658-87d4-a18bc871d004}">
+        <property name="name">
+            <value>Music</value>
+        </property>
+        <relationship name="folder">
+            <destination>{a40c0362-93e0-4f91-89c6-fade570d2f0f}</destination>
+        </relationship>
+    </object>
+    <object class="Tag" id="{97953f01-ad22-4728-8cec-575f5e0244f3}">
+        <property name="name">
+            <value>Timeline</value>
+        </property>
+        <relationship name="folder">
+            <destination>{a40c0362-93e0-4f91-89c6-fade570d2f0f}</destination>
+        </relationship>
+    </object>
+    <object class="Tag" id="{cb18022c-03f4-4030-8f84-b15d19283f06}">
+        <property name="name">
+            <value>Loop</value>
+        </property>
+        <relationship name="folder">
+            <destination>{a40c0362-93e0-4f91-89c6-fade570d2f0f}</destination>
+        </relationship>
+    </object>
+    <object class="Tag" id="{b0dcf10f-2aca-45f5-aa69-5ffb9f30a17e}">
+        <property name="name">
+            <value>Tempo</value>
+        </property>
+        <relationship name="folder">
+            <destination>{a40c0362-93e0-4f91-89c6-fade570d2f0f}</destination>
+        </relationship>
+    </object>
+    <object class="Tag" id="{d21054ac-f72d-47d7-b0c0-d6a0a6a05219}">
+        <property name="name">
+            <value>Snapshot</value>
+        </property>
+        <relationship name="folder">
+            <destination>{a40c0362-93e0-4f91-89c6-fade570d2f0f}</destination>
+        </relationship>
+    </object>
+</objects>

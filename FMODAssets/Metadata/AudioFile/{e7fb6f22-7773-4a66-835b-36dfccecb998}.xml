@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.08.00">
+    <object class="AudioFile" id="{e7fb6f22-7773-4a66-835b-36dfccecb998}">
+        <property name="assetPath">
+            <value>Ambience/Thunderstorm1.ogg</value>
+        </property>
+        <property name="isStreaming">
+            <value>true</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>48</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>292.78031249999998</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{3b91e612-5ac2-4442-83e6-5eeca6dbba07}</destination>
+        </relationship>
+    </object>
+</objects>

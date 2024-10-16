@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="Bank" id="{3d652463-b5d5-43c6-92b3-14097151bf7c}">
+		<property name="name">
+			<value>Thunder Dome</value>
+		</property>
+		<relationship name="folder">
+			<destination>{793fd9fd-2c6c-4ae0-933d-bb752d3f54be}</destination>
+		</relationship>
+	</object>
+</objects>

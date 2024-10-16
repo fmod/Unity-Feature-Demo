@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="ParameterPresetFolder" id="{c150976c-fc7c-4394-8709-794fc8bde3f8}">
+        <property name="name">
+            <value>Danger Room Music</value>
+        </property>
+        <relationship name="folder">
+            <destination>{810244f4-3be1-49ec-83c4-3a334f7e0cac}</destination>
+        </relationship>
+    </object>
+</objects>

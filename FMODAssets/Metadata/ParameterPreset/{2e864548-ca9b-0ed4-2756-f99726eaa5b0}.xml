@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="ParameterPreset" id="{2e864548-ca9b-0ed4-2756-f99726eaa5b0}">
+		<property name="name">
+			<value>Panning</value>
+		</property>
+		<relationship name="folder">
+			<destination>{dc220154-5f94-0e60-3af5-5aefeff47d11}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{6e8283e8-4211-4dd3-90f5-3a2dd4616611}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{6e8283e8-4211-4dd3-90f5-3a2dd4616611}">
+		<property name="isExposedRecursively">
+			<value>false</value>
+		</property>
+	</object>
+</objects>

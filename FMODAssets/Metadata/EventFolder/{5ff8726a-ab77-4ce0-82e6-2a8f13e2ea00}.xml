@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.08.00">
+    <object class="EventFolder" id="{5ff8726a-ab77-4ce0-82e6-2a8f13e2ea00}">
+        <property name="name">
+            <value>Event Cone Angle Room</value>
+        </property>
+        <relationship name="folder">
+            <destination>{c361279e-415f-4586-8f58-a068b965e3f2}</destination>
+        </relationship>
+    </object>
+</objects>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.08.00">
+    <object class="AudioFile" id="{e6b54af1-dcd3-41cc-a483-12af5cc3fb77}">
+        <property name="assetPath">
+            <value>It's Dark Under the Water (Mas).ogg</value>
+        </property>
+        <property name="isStreaming">
+            <value>true</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>48</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>106.66666666666667</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{3b91e612-5ac2-4442-83e6-5eeca6dbba07}</destination>
+        </relationship>
+    </object>
+</objects>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.08.00">
+    <object class="AudioFile" id="{99687483-f67e-4092-81f9-90e5541bf53b}">
+        <property name="assetPath">
+            <value>Character/Footsteps/Muddy Footsteps_06.ogg</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>48</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>0.3125</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{3b91e612-5ac2-4442-83e6-5eeca6dbba07}</destination>
+        </relationship>
+    </object>
+</objects>

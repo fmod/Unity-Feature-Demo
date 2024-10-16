@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="ParameterPresetFolder" id="{36a83f16-f07f-4e96-b8c4-f4ad869e9edc}">
+        <property name="name">
+            <value>Closing Doors Snapshot</value>
+        </property>
+        <relationship name="folder">
+            <destination>{dc220154-5f94-0e60-3af5-5aefeff47d11}</destination>
+        </relationship>
+    </object>
+</objects>

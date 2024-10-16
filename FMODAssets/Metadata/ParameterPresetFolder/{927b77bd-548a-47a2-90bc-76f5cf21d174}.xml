@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="ParameterPresetFolder" id="{927b77bd-548a-47a2-90bc-76f5cf21d174}">
+        <property name="name">
+            <value>Shooting Gallery</value>
+        </property>
+        <relationship name="folder">
+            <destination>{dc220154-5f94-0e60-3af5-5aefeff47d11}</destination>
+        </relationship>
+    </object>
+</objects>

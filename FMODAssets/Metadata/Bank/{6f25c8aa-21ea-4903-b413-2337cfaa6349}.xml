@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="Bank" id="{6f25c8aa-21ea-4903-b413-2337cfaa6349}">
+		<property name="name">
+			<value>Programmer Sounds Room</value>
+		</property>
+		<relationship name="folder">
+			<destination>{793fd9fd-2c6c-4ae0-933d-bb752d3f54be}</destination>
+		</relationship>
+		<relationship name="audioTable">
+			<destination>{ab733f0a-f9d6-49f8-802f-1944f480c17c}</destination>
+		</relationship>
+	</object>
+	<object class="AudioTable" id="{ab733f0a-f9d6-49f8-802f-1944f480c17c}">
+		<property name="name">
+			<value>Audio Table</value>
+		</property>
+		<property name="sourceDirectory">
+			<value>Assets/Programmer Sounds</value>
+		</property>
+	</object>
+</objects>

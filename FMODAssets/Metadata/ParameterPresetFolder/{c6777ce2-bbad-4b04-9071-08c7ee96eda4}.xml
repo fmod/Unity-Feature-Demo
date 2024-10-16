@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="ParameterPresetFolder" id="{c6777ce2-bbad-4b04-9071-08c7ee96eda4}">
+        <property name="name">
+            <value>Cannon Move</value>
+        </property>
+        <relationship name="folder">
+            <destination>{a08510db-b356-4c57-bb40-33c6db56a273}</destination>
+        </relationship>
+    </object>
+</objects>

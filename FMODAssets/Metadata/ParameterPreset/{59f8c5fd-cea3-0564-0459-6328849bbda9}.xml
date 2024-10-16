@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="ParameterPreset" id="{59f8c5fd-cea3-0564-0459-6328849bbda9}">
+		<property name="name">
+			<value>Thunder</value>
+		</property>
+		<relationship name="folder">
+			<destination>{46a8fa65-e436-4347-999a-3c98628e076c}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{19fc035d-4629-4663-b3fa-a09276107e08}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{19fc035d-4629-4663-b3fa-a09276107e08}">
+		<property name="maximum">
+			<value>6</value>
+		</property>
+		<property name="isExposedRecursively">
+			<value>false</value>
+		</property>
+	</object>
+</objects>

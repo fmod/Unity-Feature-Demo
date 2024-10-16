@@ -9,8 +9,8 @@ This project demonstrates a wide range of features found in FMOD and some exampl
 
 After downloading the project:
 
-1. Install FMOD for Unity.
-2. [Link FMOD to the supplied banks](https://fmod.com/resources/documentation-unity?version=2.01&page=user-guide.html#using-a-single-platform-build) found in "Assets\FMODBanks\Desktop".
+1. [Install FMOD for Unity.](https://fmod.com/resources/documentation-unity?version=2.02&page=user-guide.html#installing-the-plugin)
+2. [Link FMOD to the supplied FMOD Studio project](https://fmod.com/resources/documentation-unity?version=2.02&page=user-guide.html#using-your-fmod-studio-project) found in "FMODAssets\Fmod Demo Sounds.fspro".
 3. Open the 'Overworld v2.0' scene.
 4. Press play.
 
@@ -36,7 +36,7 @@ In every custom script containing FMOD, you will see this comment structure befo
   =======================================================================================================*/
 ```
 
-The FMOD Studio Project is included as "Fmod Demo Sounds.fspackage", which can be opened with any minor version of FMOD Studio 2.02.
+The FMOD Studio Project is included as "FMODAssets\Fmod Demo Sounds.fspro", which can be opened with any minor version of FMOD Studio 2.02.
 
 Feel free to use any and everything from this project in your own games!
 

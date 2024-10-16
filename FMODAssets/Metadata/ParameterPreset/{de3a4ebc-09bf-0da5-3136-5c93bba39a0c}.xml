@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="ParameterPreset" id="{de3a4ebc-09bf-0da5-3136-5c93bba39a0c}">
+		<property name="name">
+			<value>Rain</value>
+		</property>
+		<relationship name="folder">
+			<destination>{129bed80-2d71-47a5-b748-3669617007e8}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{9e3e881c-8135-4ea2-8695-9f29492859ad}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{9e3e881c-8135-4ea2-8695-9f29492859ad}">
+		<property name="maximum">
+			<value>4</value>
+		</property>
+		<property name="isExposedRecursively">
+			<value>false</value>
+		</property>
+	</object>
+</objects>

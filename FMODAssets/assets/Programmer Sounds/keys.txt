@@ -1,0 +1,15 @@
+English1, English - 01.ogg
+English2, English - 02.ogg
+English3, English - 03.ogg
+
+Croatian1, Croatian - 01.ogg
+Croatian2, Croatian - 02.ogg
+Croatian3, Croatian - 03.ogg
+
+French1, French - 01.ogg
+French2, French - 02.ogg
+French3, French - 03.ogg
+
+Korean1, Korean - 01.ogg
+Korean2, Korean - 02.ogg
+Korean3, Korean - 03.ogg

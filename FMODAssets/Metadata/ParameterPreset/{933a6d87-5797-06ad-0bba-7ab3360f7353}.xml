@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="ParameterPreset" id="{933a6d87-5797-06ad-0bba-7ab3360f7353}">
+		<property name="name">
+			<value>Stop Point</value>
+		</property>
+		<relationship name="folder">
+			<destination>{c6777ce2-bbad-4b04-9071-08c7ee96eda4}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{d33eab27-df1d-45aa-bc19-b909c484b0f2}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{d33eab27-df1d-45aa-bc19-b909c484b0f2}">
+		<property name="isExposedRecursively">
+			<value>false</value>
+		</property>
+	</object>
+</objects>

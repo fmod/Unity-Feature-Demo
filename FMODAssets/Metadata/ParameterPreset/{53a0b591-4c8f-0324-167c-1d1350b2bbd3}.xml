@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="ParameterPreset" id="{53a0b591-4c8f-0324-167c-1d1350b2bbd3}">
+		<property name="name">
+			<value>Round</value>
+		</property>
+		<relationship name="folder">
+			<destination>{627d6db2-8f33-450c-85c8-f60b113b098b}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{13a47331-c405-4023-a1df-dea9a2397872}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{13a47331-c405-4023-a1df-dea9a2397872}">
+		<property name="maximum">
+			<value>3</value>
+		</property>
+		<property name="isExposedRecursively">
+			<value>false</value>
+		</property>
+	</object>
+</objects>

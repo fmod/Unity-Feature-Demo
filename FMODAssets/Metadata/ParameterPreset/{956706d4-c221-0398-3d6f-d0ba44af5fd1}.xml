@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="ParameterPreset" id="{956706d4-c221-0398-3d6f-d0ba44af5fd1}">
+		<property name="name">
+			<value>PostTransmitVolume</value>
+		</property>
+		<relationship name="folder">
+			<destination>{99f78826-c04f-49ba-b93f-4e733bb266fe}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{d563c074-4aab-409f-8acc-1300b6249c70}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{d563c074-4aab-409f-8acc-1300b6249c70}">
+		<property name="isExposedRecursively">
+			<value>false</value>
+		</property>
+	</object>
+</objects>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.08.00">
+    <object class="EventFolder" id="{ce6ccfc4-4339-43c9-bec5-ee24f1bed597}">
+        <property name="name">
+            <value>Custom Distance Attenuation Room</value>
+        </property>
+        <relationship name="folder">
+            <destination>{c361279e-415f-4586-8f58-a068b965e3f2}</destination>
+        </relationship>
+    </object>
+</objects>

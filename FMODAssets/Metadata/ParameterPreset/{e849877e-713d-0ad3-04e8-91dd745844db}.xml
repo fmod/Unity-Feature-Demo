@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="ParameterPreset" id="{e849877e-713d-0ad3-04e8-91dd745844db}">
+		<property name="name">
+			<value>Exit Vehicle</value>
+		</property>
+		<relationship name="folder">
+			<destination>{a81e04c0-d21f-45a6-bd31-ef8d878cc5e8}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{a84d41de-f9b7-49d4-b34b-526786d3877a}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{a84d41de-f9b7-49d4-b34b-526786d3877a}">
+		<property name="isExposedRecursively">
+			<value>false</value>
+		</property>
+	</object>
+</objects>

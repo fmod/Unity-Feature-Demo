@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="ParameterPresetFolder" id="{a08510db-b356-4c57-bb40-33c6db56a273}">
+        <property name="name">
+            <value>Custom Distance Attenuation Room</value>
+        </property>
+        <relationship name="folder">
+            <destination>{9b1d67d7-3279-4472-bf10-d6e3e2aea600}</destination>
+        </relationship>
+    </object>
+</objects>

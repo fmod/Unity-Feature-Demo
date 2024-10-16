@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="MixerReturn" id="{d63802d5-cb7a-41b5-a407-7a890d21e077}">
+		<property name="name">
+			<value>ClosingDoors</value>
+		</property>
+		<relationship name="effectChain">
+			<destination>{c6327ff3-6a9f-47a3-a2c2-56fbdf510b77}</destination>
+		</relationship>
+		<relationship name="panner">
+			<destination>{ed31f800-d12e-442d-b01f-dd111b8dffeb}</destination>
+		</relationship>
+		<relationship name="output">
+			<destination>{684c12b9-1d45-4d9d-90b3-6e00dfbe1b42}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusEffectChain" id="{c6327ff3-6a9f-47a3-a2c2-56fbdf510b77}">
+		<relationship name="effects">
+			<destination>{cd1e5a63-b016-4c75-ab41-602463aeab11}</destination>
+			<destination>{bdc47bba-f3fe-4c30-82a9-1c788332a823}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusPanner" id="{ed31f800-d12e-442d-b01f-dd111b8dffeb}" />
+	<object class="ThreeEQEffect" id="{cd1e5a63-b016-4c75-ab41-602463aeab11}" />
+	<object class="MixerBusFader" id="{bdc47bba-f3fe-4c30-82a9-1c788332a823}" />
+</objects>

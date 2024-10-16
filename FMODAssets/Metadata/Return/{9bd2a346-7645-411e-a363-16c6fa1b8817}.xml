@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="MixerReturn" id="{9bd2a346-7645-411e-a363-16c6fa1b8817}">
+		<property name="name">
+			<value>On Dry Land</value>
+		</property>
+		<relationship name="effectChain">
+			<destination>{72bc00c0-a65a-4623-9dab-369860595ccb}</destination>
+		</relationship>
+		<relationship name="panner">
+			<destination>{c1ce48f8-d310-4bbb-bf29-042e33033368}</destination>
+		</relationship>
+		<relationship name="output">
+			<destination>{291614e9-6d72-4f0b-89e4-2e4349cbee46}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusEffectChain" id="{72bc00c0-a65a-4623-9dab-369860595ccb}">
+		<relationship name="effects">
+			<destination>{09386910-99c0-4d8d-b9e5-45b072cfe8c7}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusPanner" id="{c1ce48f8-d310-4bbb-bf29-042e33033368}" />
+	<object class="MixerBusFader" id="{09386910-99c0-4d8d-b9e5-45b072cfe8c7}" />
+</objects>

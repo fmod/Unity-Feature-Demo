@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="MixerGroup" id="{9389ea51-9094-4ba4-9674-1e98012d6799}">
+		<property name="name">
+			<value>Thunder Dome</value>
+		</property>
+		<relationship name="effectChain">
+			<destination>{92f5ee78-8c54-4793-b833-7614149ab43e}</destination>
+		</relationship>
+		<relationship name="panner">
+			<destination>{7e3a8013-8c20-46d3-b6a2-bbfd7a85c1d8}</destination>
+		</relationship>
+		<relationship name="output">
+			<destination>{4f292a0d-cf24-4e71-a3fb-8c0a4fe2b674}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusEffectChain" id="{92f5ee78-8c54-4793-b833-7614149ab43e}">
+		<relationship name="effects">
+			<destination>{e9b3000a-cae0-4d1c-bdfb-2b57c11090ad}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusPanner" id="{7e3a8013-8c20-46d3-b6a2-bbfd7a85c1d8}" />
+	<object class="MixerBusFader" id="{e9b3000a-cae0-4d1c-bdfb-2b57c11090ad}" />
+</objects>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="ParameterPreset" id="{7a458248-90f5-062f-341e-91cf1ee4ba8b}">
+		<property name="name">
+			<value>Dry/Wet</value>
+		</property>
+		<relationship name="folder">
+			<destination>{51a89ecb-5381-44d7-8645-8d161dae34bf}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{3a4144e8-187f-4528-83bd-5275ec6f792a}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{3a4144e8-187f-4528-83bd-5275ec6f792a}">
+		<property name="isExposedRecursively">
+			<value>false</value>
+		</property>
+	</object>
+</objects>
